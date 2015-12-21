@@ -8,3 +8,5 @@
 [here](https://github.com/lukaszkorecki/alrfred-giphy-random-url/raw/master/Get%20Giphy%20URL.alfredworkflow)
 
 # Demo
+
+![](https://raw.githubusercontent.com/lukaszkorecki/alrfred-giphy-random-url/master/demo.gif)
